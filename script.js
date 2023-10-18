@@ -1,4 +1,3 @@
-//your code here
 function rotateClockHands() {
   const hourHand = document.querySelector('.hour-hand');
   const minuteHand = document.querySelector('.min-hand');
